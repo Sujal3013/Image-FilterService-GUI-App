@@ -1,0 +1,11 @@
+com\dev\imageprocessingimpl\image\DrawMultipleImagesOnCanvas$1.class
+com\dev\imageprocessingimpl\processor\ImageProcessor$1.class
+com\dev\imageprocessingimpl\filter\IFilter.class
+com\dev\imageprocessingimpl\filter\GreyScaleFilter.class
+module-info.class
+com\dev\imageprocessingimpl\processor\ImageProcessor.class
+com\dev\imageprocessingimpl\io\ImageIOInterface.class
+com\dev\imageprocessingimpl\io\FileImageIO.class
+com\dev\imageprocessingimpl\image\DrawMultipleImagesOnCanvas.class
+com\dev\imageprocessingimpl\HelloApplication.class
+com\dev\imageprocessingimpl\image\ImageData.class
